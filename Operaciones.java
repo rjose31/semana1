@@ -45,5 +45,6 @@ public class Operaciones {
         }
         return this.getNumero1() / this.getNumero2();   
     }
+    //TODO: Agregar métodos para multiplicar y dividir
 
 }
